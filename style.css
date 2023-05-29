@@ -1,0 +1,18 @@
+body{
+    background-image:linear-gradient(to left,pink,white,pink);
+    color:darkviolet;
+    display:flex;
+    flex-direction:column; 
+    justify-content:center;
+    align-items: center;
+    min-height:100vh;
+}
+button{
+    height:2cm;
+    width: 10cm;
+    background-image:linear-gradient(to right,lightblue,white);
+    border-color: darkviolet;
+     
+
+}
+ 
